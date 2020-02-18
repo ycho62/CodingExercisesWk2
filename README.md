@@ -1,4 +1,4 @@
-# JavaExercisesWk2
+# CodingExercisesWk2
 a group coding exercise
 
 Do this in either Java or Python. Your choice.
