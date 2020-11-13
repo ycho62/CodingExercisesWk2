@@ -11,8 +11,8 @@ Do this in either Java or Python. Your choice.
 - Find largest integer in the last array and print it.
 - Find and print index of first true element in an array of booleans a = [false, false, false, true, false];
 - Find and print index of first true element in an array of booleans (must use a while loop)
-- add 5 to every element of an array of integers
-- divide each element of a double array by 1.3
+- add 5 to every element of an array of integers a = [9, 5, 6, 3, 8, 2, 4]
+- divide each element of an array by 1.3; a = [0.5, 1.4, 6.7, 123.4 -34.6]
 - raise each element of a double array to it's 3rd power and subtract the original element's value by the value divided by 3.0 a = [1.3, 5.4, 6.1, 1.0, 9.2];
 - zero out a 4 by 6 integer array
 - multiply each element of a 5 by 5 array of integers by 7
