@@ -5,10 +5,10 @@ Do this in either Java or Python. Your choice.
 
 #### Code Exercises
 
-- For loop from 100 to 5 by 5
+- For loop from 100 to 5 by 5. do nothing inside the loop.
 - Sum Integers from 9 to 17, print sum
 - Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4];
-- Find largest integer in an array 
+- Find largest integer in the last array and print it.
 - Find and print index of first true element in an array of booleans a = [false, false, false, true, false];
 - Find and print index of first true element in an array of booleans (must use a while loop)
 - add 5 to every element of an array of integers
