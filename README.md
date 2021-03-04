@@ -5,6 +5,7 @@ Do this in either Java or Python. Your choice.
 
 #### Code Exercises
 
+- For loop from 100 to 5 by 5. print index var.
 - For loop from 100 to 5 by 5. do nothing inside the loop.
 - Sum Integers from 9 to 17, print sum
 - Find and print the smallest integer in an array a = [9, 5, 6, 3, 8, 2, 4];
