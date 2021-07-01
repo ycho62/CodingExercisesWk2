@@ -32,3 +32,20 @@ Do this in either Java or Python. Your choice.
 Use groups of 2-4, each group at a whiteboard (or online using a shared google doc), sketching out the answers.
 
 #### FOR STUDYING for Assessment 1, step thru each of these, typing out a solution into this document.
+
+Some of you are asking for an exercise to work with very simple, small, snippets. 
+This repo is good as it lets you work in a group, where you try to generate the code without googling anything.
+Set up this way, as a group.
+
+Use your Crew members as the group.
+All gather around a google doc over zoom or discord.
+allow all crew to access the same document.
+
+Each taking a turn, try to create the code without googling anything. 
+Allow the crew member to get their best effort finished BEFORE anyone says anything.
+Then, each crew can make comments.
+The idea is for each of you to do your best in writing out a solution before anyone comments, and giving you the chance to discuss your solution when it's done.
+
+Also, be sure the solution is right! You should, at this point, have within a crew the ability to look at a piece of code and decide whether it is right or not!
+So everyone should agree, "yes, that's right, that will work."
+
