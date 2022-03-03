@@ -9,51 +9,51 @@ public class Solution {
   // and put your code here.
   }
   
-    void soln2() {
+  void soln3() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln4() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln5() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln6() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln7() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln8() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln9() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln10() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln11() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln12() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln13() {
   // and put your code here.
   }
   
-  void soln2() {
+  void soln14() {
   // and put your code here.
   }
   
