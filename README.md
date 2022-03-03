@@ -31,7 +31,7 @@ Do this in either Java or Python. Your choice.
 ### Class Use
 Use groups of 2-4, each group at a whiteboard (or online using a shared google doc), sketching out the answers.
 
-#### FOR STUDYING for Assessment 1, step thru each of these, typing out a solution into this document.
+#### FOR STUDYING for Assessment 1, step thru each of these, typing out a solution into the Solution.java file.
 
 Some of you are asking for an exercise to work with very simple, small, snippets. 
 This repo is good as it lets you work in a group, where you try to generate the code without googling anything.
